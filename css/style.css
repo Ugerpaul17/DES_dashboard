@@ -1,0 +1,19 @@
+.grid-container {
+    display: grid;
+  
+    grid-row-gap: 50px;
+    grid-column-gap: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+  }
+
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    padding: 10px 0;
+    font-size: 20px;
+    text-transform: capitalize;
+  }
+  #mapid { 
+    height: 500px; 
+  };
