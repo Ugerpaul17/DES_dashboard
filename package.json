@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Ugerpaul17/DES_dashboard#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "siege": "^0.2.0"
   },
   "devDependencies": {}
 }
