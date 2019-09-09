@@ -3,7 +3,7 @@ const url = require('url');
 const fs = require('fs');
 const path = require('path');
 
-//const port = process.argv[2] || 9000;
+ const port = process.argv[2] || 9000;
 
 const mimeType = {
     '.ico': 'image/x-icon',
